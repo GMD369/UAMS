@@ -1,0 +1,184 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "G:\\Semester 2\\C# Programs\\UAMS - Copy (2)\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9213903D-F4F5-4514-BD06-C516A8F32733}|UAMS.csproj|G:\\Semester 2\\C# Programs\\UAMS - Copy (2)\\ui\\consoleutility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9213903D-F4F5-4514-BD06-C516A8F32733}|UAMS.csproj|solutionrelative:ui\\consoleutility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9213903D-F4F5-4514-BD06-C516A8F32733}|UAMS.csproj|G:\\Semester 2\\C# Programs\\UAMS - Copy (2)\\ui\\studentui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9213903D-F4F5-4514-BD06-C516A8F32733}|UAMS.csproj|solutionrelative:ui\\studentui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9213903D-F4F5-4514-BD06-C516A8F32733}|UAMS.csproj|G:\\Semester 2\\C# Programs\\UAMS - Copy (2)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9213903D-F4F5-4514-BD06-C516A8F32733}|UAMS.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9213903D-F4F5-4514-BD06-C516A8F32733}|UAMS.csproj|g:\\semester 2\\c# programs\\uams - copy (2)\\ui\\degreeui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9213903D-F4F5-4514-BD06-C516A8F32733}|UAMS.csproj|solutionrelative:ui\\degreeui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9213903D-F4F5-4514-BD06-C516A8F32733}|UAMS.csproj|G:\\Semester 2\\C# Programs\\UAMS - Copy (2)\\bl\\studentbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9213903D-F4F5-4514-BD06-C516A8F32733}|UAMS.csproj|solutionrelative:bl\\studentbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9213903D-F4F5-4514-BD06-C516A8F32733}|UAMS.csproj|G:\\Semester 2\\C# Programs\\UAMS - Copy (2)\\bl\\subjectbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9213903D-F4F5-4514-BD06-C516A8F32733}|UAMS.csproj|solutionrelative:bl\\subjectbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9213903D-F4F5-4514-BD06-C516A8F32733}|UAMS.csproj|G:\\Semester 2\\C# Programs\\UAMS - Copy (2)\\dl\\studentdl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9213903D-F4F5-4514-BD06-C516A8F32733}|UAMS.csproj|solutionrelative:dl\\studentdl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9213903D-F4F5-4514-BD06-C516A8F32733}|UAMS.csproj|G:\\Semester 2\\C# Programs\\UAMS - Copy (2)\\bl\\degreeprogrambl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9213903D-F4F5-4514-BD06-C516A8F32733}|UAMS.csproj|solutionrelative:bl\\degreeprogrambl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9213903D-F4F5-4514-BD06-C516A8F32733}|UAMS.csproj|G:\\Semester 2\\C# Programs\\UAMS - Copy (2)\\ui\\subjectui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9213903D-F4F5-4514-BD06-C516A8F32733}|UAMS.csproj|solutionrelative:ui\\subjectui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9213903D-F4F5-4514-BD06-C516A8F32733}|UAMS.csproj|G:\\Semester 2\\C# Programs\\UAMS - Copy (2)\\dl\\degreeprogramdl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9213903D-F4F5-4514-BD06-C516A8F32733}|UAMS.csproj|solutionrelative:dl\\degreeprogramdl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "StudentBL.cs",
+              "DocumentMoniker": "G:\\Semester 2\\C# Programs\\UAMS - Copy (2)\\BL\\StudentBL.cs",
+              "RelativeDocumentMoniker": "BL\\StudentBL.cs",
+              "ToolTip": "G:\\Semester 2\\C# Programs\\UAMS - Copy (2)\\BL\\StudentBL.cs",
+              "RelativeToolTip": "BL\\StudentBL.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAAAAMAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T16:01:50.945Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ConsoleUtility.cs",
+              "DocumentMoniker": "G:\\Semester 2\\C# Programs\\UAMS - Copy (2)\\UI\\ConsoleUtility.cs",
+              "RelativeDocumentMoniker": "UI\\ConsoleUtility.cs",
+              "ToolTip": "G:\\Semester 2\\C# Programs\\UAMS - Copy (2)\\UI\\ConsoleUtility.cs",
+              "RelativeToolTip": "UI\\ConsoleUtility.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAAAgAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T16:01:51.391Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SubjectBL.cs",
+              "DocumentMoniker": "G:\\Semester 2\\C# Programs\\UAMS - Copy (2)\\BL\\SubjectBL.cs",
+              "RelativeDocumentMoniker": "BL\\SubjectBL.cs",
+              "ToolTip": "G:\\Semester 2\\C# Programs\\UAMS - Copy (2)\\BL\\SubjectBL.cs",
+              "RelativeToolTip": "BL\\SubjectBL.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T16:01:51.392Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StudentUI.cs",
+              "DocumentMoniker": "G:\\Semester 2\\C# Programs\\UAMS - Copy (2)\\UI\\StudentUI.cs",
+              "RelativeDocumentMoniker": "UI\\StudentUI.cs",
+              "ToolTip": "G:\\Semester 2\\C# Programs\\UAMS - Copy (2)\\UI\\StudentUI.cs",
+              "RelativeToolTip": "UI\\StudentUI.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAG8AAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T16:01:51.393Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SubjectUI.cs",
+              "DocumentMoniker": "G:\\Semester 2\\C# Programs\\UAMS - Copy (2)\\UI\\SubjectUI.cs",
+              "RelativeDocumentMoniker": "UI\\SubjectUI.cs",
+              "ToolTip": "G:\\Semester 2\\C# Programs\\UAMS - Copy (2)\\UI\\SubjectUI.cs",
+              "RelativeToolTip": "UI\\SubjectUI.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAAAA4AAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T16:01:51.393Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "G:\\Semester 2\\C# Programs\\UAMS - Copy (2)\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "G:\\Semester 2\\C# Programs\\UAMS - Copy (2)\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAB4AAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T16:01:51.394Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DegreeProgramBL.cs",
+              "DocumentMoniker": "G:\\Semester 2\\C# Programs\\UAMS - Copy (2)\\BL\\DegreeProgramBL.cs",
+              "RelativeDocumentMoniker": "BL\\DegreeProgramBL.cs",
+              "ToolTip": "G:\\Semester 2\\C# Programs\\UAMS - Copy (2)\\BL\\DegreeProgramBL.cs",
+              "RelativeToolTip": "BL\\DegreeProgramBL.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAAACEAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T16:01:51.395Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DegreeUI.cs",
+              "DocumentMoniker": "G:\\Semester 2\\C# Programs\\UAMS - Copy (2)\\UI\\DegreeUI.cs",
+              "RelativeDocumentMoniker": "UI\\DegreeUI.cs",
+              "ToolTip": "G:\\Semester 2\\C# Programs\\UAMS - Copy (2)\\UI\\DegreeUI.cs",
+              "RelativeToolTip": "UI\\DegreeUI.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAAAAA8AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T16:01:51.395Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "StudentDL.cs",
+              "DocumentMoniker": "G:\\Semester 2\\C# Programs\\UAMS - Copy (2)\\DL\\StudentDL.cs",
+              "RelativeDocumentMoniker": "DL\\StudentDL.cs",
+              "ToolTip": "G:\\Semester 2\\C# Programs\\UAMS - Copy (2)\\DL\\StudentDL.cs",
+              "RelativeToolTip": "DL\\StudentDL.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAAAFEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T16:01:51.384Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DegreeProgramDL.cs",
+              "DocumentMoniker": "G:\\Semester 2\\C# Programs\\UAMS - Copy (2)\\DL\\DegreeProgramDL.cs",
+              "RelativeDocumentMoniker": "DL\\DegreeProgramDL.cs",
+              "ToolTip": "G:\\Semester 2\\C# Programs\\UAMS - Copy (2)\\DL\\DegreeProgramDL.cs",
+              "RelativeToolTip": "DL\\DegreeProgramDL.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T16:01:51.396Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
